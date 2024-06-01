@@ -21,11 +21,12 @@ The above command will download and install the latest version of Docker Compose
 
 Verify Docker Compose Version
 Check if Docker Compose was installed successfully by running,
-
+``
 docker-compose --version
+```
 Output:
-
-root@server:~# docker-compose --version
-Docker Compose version v2.27.0
-root@server:~# 
+```
+docker-compose --version
+```
+Docker Compose version v2.27.1
 Done.
