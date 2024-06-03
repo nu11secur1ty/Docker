@@ -12,6 +12,6 @@ echo \
 tee /etc/apt/sources.list.d/docker.list > /dev/null
 apt-get update
 
-apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin -y
 curl -L "https://github.com/docker/compose/releases/latest/download/docker-compose-$(uname -s)-$(uname -m)" -o /usr/bin/docker-compose
 chmod +x /usr/bin/docker-compose
