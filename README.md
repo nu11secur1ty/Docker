@@ -1,3 +1,5 @@
+***NOTE:*** **Run as root!**
+
 # Docker installation 
 - Ubuntu 24.04
 
