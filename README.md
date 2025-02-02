@@ -1,6 +1,6 @@
 ***NOTE:*** **Run as root!**
 
-# Docker installation 
+# Docker installation for Ubuntu and Debian
 - Ubuntu 24.04
 
 ### Online installer:
