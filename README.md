@@ -8,7 +8,7 @@
 ```
 curl -s https://raw.githubusercontent.com/nu11secur1ty/Docker/refs/heads/main/installer.sh | sh
 ```
-# Docker uninstallation
+# Docker uninstallation for Ubuntu and Debian
 
 ```
 curl -s https://raw.githubusercontent.com/nu11secur1ty/Docker/main/uninstaller.sh | sh
