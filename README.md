@@ -6,7 +6,7 @@
 ### Online installer:
 
 ```
-curl -s https://raw.githubusercontent.com/nu11secur1ty/Docker/main/installer_24.04.sh | sh
+curl -s https://raw.githubusercontent.com/nu11secur1ty/Docker/refs/heads/main/installer.sh | sh
 ```
 # Docker uninstallation
 
